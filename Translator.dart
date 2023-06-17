@@ -1,3 +1,9 @@
+dependencies:
+  cupertino_icons: ^1.0.2
+  translator: ^0.1.7  // Add this package in your pubspec.yaml
+  flutter:
+    sdk: flutter
+// Make sure your Internet is Connected 
 import 'dart:io';
 
 import 'package:flutter/material.dart';
